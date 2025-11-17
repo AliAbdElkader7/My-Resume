@@ -1,2 +1,3 @@
 # My-Resume
-- [ CV URL ] aliabdelkader7.github.io/My-Resume/CV.html 
+- [ CV URL ]  
+<a href="aliabdelkader7.github.io/My-Resume/CV.html" target="_blank" rel="noopener noreferrer"></a>
